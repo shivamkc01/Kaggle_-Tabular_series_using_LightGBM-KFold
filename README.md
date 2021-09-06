@@ -7,3 +7,6 @@ Files
  - train.csv - the training data with the target claim column
  - test.csv  - the test set; you will be predicting the claim for each row in                  this file
  - sample_submission.csv - a sample submission file in the correct format
+
+
+Here is my kaggle page link : https://www.kaggle.com/shivamkc3
